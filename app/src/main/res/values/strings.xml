@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SpaceXDemoApp</string>
+
+    <string name="error_title_generic">Something went wrong</string>
+    <string name="error_message_generic">Please try again</string>
+
+    <string name="phone_error_title">No internet connection detected</string>
+    <string name="phone_error_message">Please ensure your phone has an active internet connection and try again.</string>
+
+    <string name="rocket_reference_error_title">No rocket reference found</string>
+    <string name="rocker_reference_error_message">Please ensure the rocket name is correct and try again and try again.</string>
+
+    <string name="launch_list_error_title">Could not refresh launch list right now</string>
+    <string name="launch_list_error_message">Please try again later.</string>
+
+    <string name="launch_date_prefix">Launch Date: %1$s</string>
+    <string name="launch_success_prefix">Mission Success: </string>
+    <string name="launch_toolbar_title">%1$s Launches</string>
+    <string name="launch_toolbar_blank_title">Launches</string>
+
+    <string name="dialog_ok">OK</string>
+
+</resources>
